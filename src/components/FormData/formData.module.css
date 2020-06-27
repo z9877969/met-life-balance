@@ -1,0 +1,40 @@
+.form {
+  min-width: 220px;
+  width: 220px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+.form h2 {
+  width: 180px;
+  /* display: inline; */
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.inputsContainer {
+  margin: 0 auto;
+  width: 180px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.form button {
+  width: 180px;
+  height: 45px;
+}
+
+@media (min-width: 420px) {
+  .form {
+    min-width: 380px;
+  }
+
+  .inputsContainer {
+    width: 380px;
+  }
+}
