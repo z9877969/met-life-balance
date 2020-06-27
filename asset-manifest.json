@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/met-life-balance/static/css/main.451906db.chunk.css",
+    "main.js": "/met-life-balance/static/js/main.dec676c1.chunk.js",
+    "main.js.map": "/met-life-balance/static/js/main.dec676c1.chunk.js.map",
+    "runtime-main.js": "/met-life-balance/static/js/runtime-main.48f10c21.js",
+    "runtime-main.js.map": "/met-life-balance/static/js/runtime-main.48f10c21.js.map",
+    "static/js/2.7836394d.chunk.js": "/met-life-balance/static/js/2.7836394d.chunk.js",
+    "static/js/2.7836394d.chunk.js.map": "/met-life-balance/static/js/2.7836394d.chunk.js.map",
+    "index.html": "/met-life-balance/index.html",
+    "precache-manifest.5a8d01127ca09c610ce291d7e979eede.js": "/met-life-balance/precache-manifest.5a8d01127ca09c610ce291d7e979eede.js",
+    "service-worker.js": "/met-life-balance/service-worker.js",
+    "static/css/main.451906db.chunk.css.map": "/met-life-balance/static/css/main.451906db.chunk.css.map",
+    "static/js/2.7836394d.chunk.js.LICENSE.txt": "/met-life-balance/static/js/2.7836394d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48f10c21.js",
+    "static/js/2.7836394d.chunk.js",
+    "static/css/main.451906db.chunk.css",
+    "static/js/main.dec676c1.chunk.js"
+  ]
+}
